@@ -1,0 +1,8 @@
+.LH {
+    border: 1px solid #000000;
+    background-image: none !important;
+    background-color: #ffffff !important;
+    border-radius: 3px;
+    color: #000000;
+    font-family: monospace;
+}
